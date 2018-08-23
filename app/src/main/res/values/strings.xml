@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Kweather</string>
+
+    <string name="cloud">구름 :&#160;</string>
+    <string name="wind">풍속 :&#160;</string>
+    <string name="rain">강우량 :&#160;</string>
+    <string name="sunrise">일출 :&#160;</string>
+    <string name="sunset">일몰 :&#160;</string>
+
+    <string name="temp_min">최저기온</string>
+    <string name="temp_max">최고기온</string>
+    <string name="temp_sign">°</string>
+    <string name="wait">잠시만 기다려 주세요</string>
+</resources>
